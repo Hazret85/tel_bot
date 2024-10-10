@@ -89,13 +89,11 @@ timestamp: Время создания лога (ISO 8601)
 Установите зависимости:
 
 pip install -r requirements.txt
-Use code with caution.
-Bash
+
 Запустите сервер Flask:
 
 python main.py
-Use code with caution.
-Bash
+
 Примечания
 Для работы бота необходимо указать токен бота в переменной API_TOKEN в файле bot.py.
 
